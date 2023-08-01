@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659620161 source:c:\users\ant\documents\onenote notebooks\uvaweddingshopping\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstdio>
+	<cstring>
+
